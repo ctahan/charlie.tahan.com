@@ -1,0 +1,12 @@
+June 20, 2020 - March 1, 2024
+### **Dr. Charles Tahan**
+
+#### Assistant Director for QIS at OSTP, and Director of the NQCO
+
+Dr. Charles Tahan is the Assistant Director for Quantum Information Science (QIS) and the Director of the National Quantum Coordination Office (NQCO) within the White House Office of Science and Technology Policy. The NQCO ensures coordination of the National Quantum Initiative (NQI) and QIS activities across the federal government, industry, and academia.
+
+Dr. Tahan is on detail from the Laboratory for Physical Sciences where he drove technical progress in the future of information technology as Technical Director. Research at LPS spans computing, communications, and sensing, from novel device physics to high-performance computer architectures. As a technical lead, Dr. Tahan stood up new research initiatives in silicon and superconducting quantum computing; quantum characterization, verification, and validation; and new and emerging qubit science and technology. As a practicing physicist, he is Chief of the intramural QIS research programs at LPS and works with students and postdocs from the University of Maryland-College Park to conduct original research in quantum information and device theory. His contributions have been recognized by the Researcher of the Year Award, the Presidential Early Career Award for Scientists and Engineers, election as a Fellow of the American Physical Society, and as an ODNI Science and Technology Fellow. He continues to serve as Chief Scientist of LPS.
+
+Dr. Tahan earned a PhD in Physics at the University of Wisconsin-Madison in 2005 and a B.Sc. in Physics and Computer Science with Highest Honors from the College of William & Mary in 2000. From 2005-2007 he was a National Science Foundation Distinguished International Postdoctoral Research Fellow at the University of Cambridge, UK; the Center for Quantum Computing Technology, Australia; and the University of Tokyo, Japan. He served as chief technical consultant for quantum information science and technology programs in DARPA’s Microsystems Technology Office (MTO) while at Booz Allen Hamilton from 2007-2009. He has a long-term commitment to science and society including creating one of the first games meant to build intuition about quantum computing.
+
+![[NQCOoffice.png]]
