@@ -2,7 +2,7 @@
 enableToc: "true"
 ---
 ### Charles Tahan, PhD
-Academic-style CV, March 2024
+Academic-style CV, December 2024
 
 ### EDUCATION
 
@@ -15,6 +15,10 @@ Academic-style CV, March 2024
 
 
 ### EMPLOYMENT ([[Roles and Impact]])
+
+| 07/24 - pres. | _Microsoft_               |
+| ------------- | --------------------------------------------------- |
+|               | **Partner**, Quantum Azure |
 
 | 03/24 - pres. | _University of Maryland-College Park_               |
 | ------------- | --------------------------------------------------- |

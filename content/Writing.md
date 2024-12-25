@@ -1,4 +1,6 @@
 
+2024-04-01 [[The simplest quantum computer]]
+
 2024-02-01 [[Quantum Origin Stories]], NQCO Director's Letter
 
 2023-08-03 [[Cheek by Jowl]], NQCO Director's Letter

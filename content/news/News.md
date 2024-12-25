@@ -1,5 +1,9 @@
 ## Latest
 
+- 2024-08-05 [Phonon-Induced Exchange Gate Infidelities in Semiconducting Si-SiGe Spin Qubits](https://arxiv.org/abs/2408.02742) // preprint
+- 2024-07-11 [Ultra-dispersive resonator readout of a quantum-dot qubit using longitudinal coupling](https://arxiv.org/abs/2407.08869) // preprint
+- 2024-06-20 [[I'm joining Microsoft]]
+- 2024-04-01 [[The simplest quantum computer]]
 - 2024-03-21 [Charles Tahan Brings His Research Expertise to Thriving UMD Quantum Enterprise](https://umdphysics.umd.edu/about-us/news/department-news/1937-tahan.html)
 - 2024-03-04 [[March Meeting 2024]] // #news
 - 2024-03-04 [[Last day at OSTP and LPS]] // #news

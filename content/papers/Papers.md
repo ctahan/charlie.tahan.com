@@ -1,4 +1,7 @@
 
+[2024] M. BROOKS, R. LUNDGREN, and C. TAHAN, "Phonon-Induced Exchange Gate Infidelities in Semiconducting Si-SiGe Spin Qubits",
+Phys. Rev. B 110, 235204 (2024), [https://arxiv.org/abs/2408.02742](https://arxiv.org/abs/2408.02742)
+
 [2024] S. HOFFMAN, M. HAYS, K. SERNIAK, T. HAZARD, and C.TAHAN, "Decoherence in Andreev spin qubits",
 https://arxiv.org/abs/2403.00710
 
@@ -6,7 +9,7 @@ https://arxiv.org/abs/2403.00710
 https://arxiv.org/abs/2402.10330
 
 [2024] Y. YANAY, B. SWINGLE, and C. TAHAN, "Detecting Measurement-Induced Entanglement Transitions With Unitary Mirror Circuits,"
-https://arxiv.org/abs/2401.17367
+Phys. Rev. Lett. 133, 070601 (2024), [https://arxiv.org/abs/2401.17367](https://arxiv.org/abs/2401.17367)
 
 [2023] R. RUSKOV and C. TAHAN, “Longitudinal (curvature) couplings of an N-level qudit to a superconducting resonator at the adiabatic limit and beyond,”
 [https://arxiv.org/abs/2312.03118](https://arxiv.org/abs/2312.03118)
