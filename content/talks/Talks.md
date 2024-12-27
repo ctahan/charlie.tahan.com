@@ -1,4 +1,19 @@
 
+
+[11/2024] "Bad Ideas", Spin Qubit 6, Sydney, Australia
+
+[09/2024] "You'll never find that! Or, a career in quantum.", UMD Career Nexus, College Park, MD - [[CareerNexus.pdf]]
+
+[09/2024] Keynote, NYU Quantum Summit
+
+[05/2024] "What's neqst? (Bob Joynt Edition)", Joyntfest, Madison, WI
+
+[04/2024] "What's neqst?", Seminar, Cornell, NY
+
+[03/2024] "Comments on “Measuring Quantum Politics and Defense"", Quantum Basel, Basel, Switzerland
+
+[01/2024] "The National Quantum Initiative and You", MIT
+
 [05/2023] “From Designing Quantum Computers to Coordinating the National Quantum Initiative,” Stanford EE380 Seminar
 
 [05/2023] “Quantum Information, National Quantum Policy, and the LPS Qubit Collaboratory”, NSA Policy Series
