@@ -18,14 +18,6 @@ tags:
 
 Mr. Willy Wonka showed up to give friends and family an inside tour of our newest quantum factory. We wanted to thank everyone who made it possible over the last year - a truly Herculean effort from our construction partners, architects, Capital of Quantum, the State of Maryland, University of Maryland, teams across Microsoft in legal, real estate, business, security, IT, lab operations, and of course the team here in the DMV who rolled up their sleeves to make this happen. To all of you who couldn’t make it, thank you and Happy Halloween!
 
-![[news/assets/linkedin-2026-10-31-an-inside-tour-of-our-newest-00.jpg|A person dressed as Willy Wonka in a purple coat and top hat cuts a cake for a child at the lab open house]]
-
-![[news/assets/linkedin-2026-10-31-an-inside-tour-of-our-newest-01.jpg|Four people, one dressed as Willy Wonka, stand in front of office windows]]
-
-![[news/assets/linkedin-2026-10-31-an-inside-tour-of-our-newest-02.jpg|Willy Wonka speaks to a seated audience in front of a screen showing a team photo]]
-
-![[news/assets/linkedin-2026-10-31-an-inside-tour-of-our-newest-03.jpg|The lab team gathered behind a table with a cake]]
-
 ## The golden ticket
 
 ![[news/assets/linkedin-2026-10-31-golden-ticket.jpg|A golden ticket reading: Microsoft Quantum Research Center. Golden Ticket. Friends & Family Celebration. For the people who made it possible, and everyone who stood beside them. Discovery District, University of Maryland, College Park, Maryland. The stub reads: Maryland's Capital of Quantum. With gratitude.]]

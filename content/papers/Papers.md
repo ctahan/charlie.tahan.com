@@ -2,6 +2,9 @@
 [2026] HRL QUANTUM TEAM and MICROSOFT COLLABORATORS (S. CARR et al., including C. TAHAN), “Benchmarking exchange-only control of a 48-spin singlet manifold,”
 [https://arxiv.org/abs/2610.07393](https://arxiv.org/abs/2610.07393)
 
+[2026] C. TAHAN, “Quantum meets capitalism: how to pair long-term bets on technology with commercial speed,” _World View_,
+Nature **655**, 1105 (2026), [https://www.nature.com/articles/d41586-026-02310-0](https://www.nature.com/articles/d41586-026-02310-0)
+
 [2026] S. HOFFMAN, E. H. CHEN, M. BROOKS, S. CARR, D. VOLYA, A. TRAN, T. KEATING, T. D. LADD, and C. TAHAN, “Spin singlets are useful,”
 [https://arxiv.org/abs/2607.06672](https://arxiv.org/abs/2607.06672)
 
