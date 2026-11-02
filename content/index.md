@@ -19,12 +19,12 @@ This site serves as a repository for academic work and in no way represents the 
 
 - Check out what’s going on across the USG at [quantum.gov](https://quantum.gov/)
 - Visit my academic group site: [http://research.tahan.com/](http://research.tahan.com/)
-- [Preprints on the arXiv](http://arxiv.org/find/all/1/au:+Tahan_C/0/1/0/all/0/1)
+- [Preprints on the arXiv](https://arxiv.org/search/?query=Tahan%2C+C&searchtype=author&abstracts=show&order=-announced_date_first&size=100)
 - [Google Scholar](https://scholar.google.com/citations?user=eZRiOXcAAAAJ&hl=en&oi=ao)
 - [[Papers]] - technical papers archive.
 - [[Talks]] - talks archive.
 - [[Writing]] - all non-technical writing.
-- [Qubit Zoo](http://qubitzoo.com/)
+- [Qubit Zoo](https://qubitzoo.org/)
 - [Meqanic](http://meqanic.com/) - A puzzle game for iOS designed to build your intution about quantum computing and quantum mechanics. See a talk about its creation [here](http://tahan.com/charlie/talks/2015MMquantumintuitiontalk.pdf).
 - [Technology and Society Page](https://tahan.com/charlie/nanosociety/) - Years ago I created a new course at the University of Wisconsin-Madison on Nanotechnology and Society, which evolved into work in science and technology studies, participation on various ethics and public policy boards, and some thought into the future of quantum technology.
 -  _Old_ [Teaching and Learning Philosophy](http://www.tahan.com/charlie/bio/teachphilo.pdf)

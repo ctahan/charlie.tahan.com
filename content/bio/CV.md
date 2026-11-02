@@ -133,7 +133,7 @@ Academic-style CV, December 2024
 
 - Q12 Education Partnership and World Quantum Day (many activities)
 - LPS Qubit Collaboratory, http://qubitcollaboratory.org (many activities)
-- Creator of the Qubit Zoo, http://qubitzoo.com
+- Creator of the Qubit Zoo, https://qubitzoo.org
 - Creator of MEQANIC (http://appstore.com/meqanic), a quantum physics based puzzle game for iOS (iPhone, iPad) designed to build intuition about quantum mechanics, released on the Apple App Store April 2014 (via tareso.org, an educational benefit LLC)
 - IC Community advisor for 9 Intelligence Community Postdoctoral Fellows, 5 National Physical Sciences Consortium (NPSC) graduate fellows
 - Initiated Booz Allen Hamilton Distinguished Speaker Series, 2008 (Notable guest: Math consultant for CBS’s “Numb3rs” program)
