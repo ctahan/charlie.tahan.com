@@ -1,5 +1,11 @@
 
+2026-09-22 [[Microsoft's quantum research center is open for discovery in Maryland]], Microsoft Quantum blog
+
 2026-07-29 [Quantum meets capitalism: how to pair long-term bets on technology with commercial speed](https://www.nature.com/articles/d41586-026-02310-0), Nature World View, Nature 655, 1105 (2026)
+
+2025-09-17 [[Our new collaboration with Maryland will accelerate scalable quantum computing]], Microsoft On the Issues
+
+2025-05-07 [[Testimony before the House Science Committee on How the National Quantum Initiative Shapes U.S. Quantum Technology Leadership]]
 
 2024-04-01 [[The simplest quantum computer]]
 
