@@ -9,7 +9,7 @@ I worked at OSTP from June 2020 to March 2024. For three years before that I was
 ## National Strategy
 
 - [Annual Report on the NQI Program Budget](https://www.quantum.gov/wp-content/uploads/2023/12/NQI-Annual-Report-FY2024.pdf "Annual Report on the NQI Program Budget"), December 1, 2023
-- [National Security Memorandum 10 on Quantum Computing](https://www.whitehouse.gov/briefing-room/statements-releases/2022/05/04/national-security-memorandum-on-promoting-united-states-leadership-in-quantum-computing-while-mitigating-risks-to-vulnerable-cryptographic-systems/), May 4, 2022
+- [National Security Memorandum 10 on Quantum Computing](https://bidenwhitehouse.archives.gov/briefing-room/statements-releases/2022/05/04/national-security-memorandum-on-promoting-united-states-leadership-in-quantum-computing-while-mitigating-risks-to-vulnerable-cryptographic-systems/) ([[web-archive/National Security Memorandum on Promoting United States Leadership in Quantum Computing While Mitigating Risks to Vulnerable Cryptographic Systems - The White House.pdf|saved copy]]), May 4, 2022
 - [Bringing Quantum Sensors to Fruition](https://www.quantum.gov/wp-content/uploads/2022/03/BringingQuantumSensorstoFruition.pdf "Bringing Quantum Sensors to Fruition"), March 24, 2022
 - [The Role of International Talent in Quantum Information Science](https://www.quantum.gov/wp-content/uploads/2021/10/2021_NSTC_ESIX_INTL_TALENT_QIS.pdf "The Role of International Talent in Quantum Information Science"), October 5, 2021
 - [A Coordinated Approach to Quantum Networking Research](https://www.quantum.gov/wp-content/uploads/2021/01/A-Coordinated-Approach-to-Quantum-Networking.pdf "A Coordinated Approach to Quantum Networking Research"), January 19, 2021

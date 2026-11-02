@@ -1,6 +1,39 @@
 
+[2026] HRL QUANTUM TEAM and MICROSOFT COLLABORATORS (S. CARR et al., including C. TAHAN), “Benchmarking exchange-only control of a 48-spin singlet manifold,”
+[https://arxiv.org/abs/2610.07393](https://arxiv.org/abs/2610.07393)
+
+[2026] S. HOFFMAN, E. H. CHEN, M. BROOKS, S. CARR, D. VOLYA, A. TRAN, T. KEATING, T. D. LADD, and C. TAHAN, “Spin singlets are useful,”
+[https://arxiv.org/abs/2607.06672](https://arxiv.org/abs/2607.06672)
+
+[2026] U. GUNGORDU, R. RUSKOV, S. HOFFMAN, K. SERNIAK, A. J. KERMAN, and C. TAHAN, “Gate-dependent offset charge shifts and anharmonicity in gatemon qubits in the weak tunneling regime,”
+[https://arxiv.org/abs/2604.24716](https://arxiv.org/abs/2604.24716)
+
+[2026] R. K. L. COLMENAR, A. LIN, O. ABDURAZAKOV, Y.-P. SHIM, G. W. BRYANT, and C. TAHAN, “Anisotropy reduction and tunability of hole-spin qubit g-factor in strained parabolic Ge/SiGe quantum wells,”
+[https://arxiv.org/abs/2602.21287](https://arxiv.org/abs/2602.21287)
+
+[2025] M. P. R. LOSERT, U. GUNGORDU, S. N. COPPERSMITH, M. FRIESEN, and C. TAHAN, “The effects of alloy disorder on strongly-driven flopping mode qubits in Si/SiGe,”
+Phys. Rev. B 113, 235301 (2026), [https://arxiv.org/abs/2512.19658](https://arxiv.org/abs/2512.19658)
+
+[2025] S. HOFFMAN and C. TAHAN, “Resolving Andreev spin qubits in germanium-based Josephson junctions,”
+[https://arxiv.org/abs/2506.13988](https://arxiv.org/abs/2506.13988)
+
+[2025] J. H. DINH, M. WONG, M. BROOKS, C. TAHAN, and M. LEE, “Quantum Intuition XR: Tangible Quantum Mechanics using Interactive XR Experience,”
+IEEE Transactions on Visualization and Computer Graphics 32, 3668 (2026), [https://arxiv.org/abs/2504.08984](https://arxiv.org/abs/2504.08984)
+
+[2025] F. SABATINO, M. BROOKS, C. TAHAN, and S. HOFFMAN, “Simulated Non-Abelian Statistics of Majorana Zero Modes from a Kitaev Lattice,”
+Phys. Rev. B 112, 075126 (2025), [https://arxiv.org/abs/2503.15405](https://arxiv.org/abs/2503.15405)
+
+[2025] M. BROOKS, F. SABATINO, C. TAHAN, and S. HOFFMAN, “Measurement-based Simulation of Geometric Gates in Topological Qubits on NISQ Devices,”
+Phys. Rev. A 112, 032617 (2025), [https://arxiv.org/abs/2503.15392](https://arxiv.org/abs/2503.15392)
+
+[2024] C. TAHAN, “Opinion: The simplest quantum computer,”
+[https://arxiv.org/abs/2412.18726](https://arxiv.org/abs/2412.18726)
+
 [2024] M. BROOKS, R. LUNDGREN, and C. TAHAN, "Phonon-Induced Exchange Gate Infidelities in Semiconducting Si-SiGe Spin Qubits",
 Phys. Rev. B 110, 235204 (2024), [https://arxiv.org/abs/2408.02742](https://arxiv.org/abs/2408.02742)
+
+[2024] B. HARPT, J. CORRIGAN, N. HOLMAN, P. MARCINIEC, D. ROSENBERG, D. YOST, R. DAS, R. RUSKOV, C. TAHAN, W. D. OLIVER, R. MCDERMOTT, M. FRIESEN, and M. A. ERIKSSON, “Ultra-dispersive resonator readout of a quantum-dot qubit using longitudinal coupling,”
+npj Quantum Information 11, 5 (2025), [https://arxiv.org/abs/2407.08869](https://arxiv.org/abs/2407.08869)
 
 [2024] S. HOFFMAN, M. HAYS, K. SERNIAK, T. HAZARD, and C.TAHAN, "Decoherence in Andreev spin qubits",
 https://arxiv.org/abs/2403.00710
@@ -16,6 +49,9 @@ Phys. Rev. Lett. 133, 070601 (2024), [https://arxiv.org/abs/2401.17367](https://
 
 [2023] M. BROOKS and C. TAHAN, “Quantum Computation by Spin Parity Measurements with Encoded Qubits,”
 Phys. Rev. B 108, 035206 (2023), [https://arxiv.org/abs/2305.09727](https://arxiv.org/abs/2305.09727)
+
+[2023] V. P. SU, C. CAO, H.-Y. HU, Y. YANAY, C. TAHAN, and B. SWINGLE, “Discovery of Optimal Quantum Error Correcting Codes via Reinforcement Learning,”
+Phys. Rev. Applied 23, 034048 (2025), [https://arxiv.org/abs/2305.06378](https://arxiv.org/abs/2305.06378)
 
 [2023] Y. YANAY and C. TAHAN, “Low Overhead Quantum Bus with Coupling beyond the Nearest Neighbor via Mediated Effective Capacitance”,
 Phys. Rev. Applied 20, 024006 (2023), [https://arxiv.org/abs/2302.04284](https://arxiv.org/abs/2302.04284)
@@ -90,10 +126,10 @@ _Perspective_, Science 346, 165 (2014)
 _Nature Comm._ **5**, 3860 (2014), [http://arxiv.org/abs/1311.5937](http://arxiv.org/abs/1311.5937) (2013)
 
 [2014] Y.-P. SHIM and C. TAHAN, “Bottom-up superconducting and Josephson junction devices inside a Group-IV semiconductor crystal,”
-_Nature Comm._ **5**, 4225 (2014), [http://arxiv.org/abs/1407.0372](http://arxiv.org/abs/1407.0372) (2013)
+_Nature Comm._ **5**, 4225 (2014), [https://arxiv.org/abs/1309.0015](https://arxiv.org/abs/1309.0015) (2013)
 
 [2014] C. TAHAN and R. JOYNT, “Relaxation of excited spin, orbital, and valley qubit states in single electron silicon quantum dots”,
-_Phys. Rev. B_ **89**, 075302 (2014), [http://arxiv.org/abs/1302.0983](http://arxiv.org/abs/1302.0983) (2013)
+_Phys. Rev. B_ **89**, 075302 (2014), [https://arxiv.org/abs/1301.0260](https://arxiv.org/abs/1301.0260) (2013)
 
 [2013] B. Suri, Z. K. Keane, R. Ruskov, Lev S. Bishop, Charles Tahan, S. Novikov, J. E. Robinson, F. C. Wellstood, B. S. Palmer, “Observation of Autler-Townes effect in a dispersively dressed Jaynes-Cummings system,”
 _New J. Phys._ **15**, 125007 (2013), [http://arxiv.org/abs/1308.2246](http://arxiv.org/abs/1308.2246) (2013)
@@ -120,10 +156,10 @@ _Phys. Rev. Lett._ **100**, 216401 (2008), [http://arxiv.org/abs/0803.3963](http
 _Phys. Rev. A_ **77**, 053819 (2008), [http://arxiv.org/abs/0710.5748](http://arxiv.org/abs/0710.5748)
 
 [2007] S. GOSWAMI, K.A. SLINKER, MARK FRIESEN, L.M. MCGUIRE, J.L. TRUITT, C. TAHAN, L.J. KLEIN, J.O. CHU, P.M. MOONEY, D.W. VAN DER WEIDE, ROBERT JOYNT, S.N. COPPERSMITH, and MARK A. ERIKSSON, “Control of Valley Splitting in Silicon Quantum Devices,”
-_Nature Physics_ **3**, 41 – 45 (January, 2007), [http://arxiv.org/cond-mat/0611221](http://arxiv.org/cond-mat/0611221)
+_Nature Physics_ **3**, 41 – 45 (January, 2007), [https://arxiv.org/abs/cond-mat/0611221](https://arxiv.org/abs/cond-mat/0611221)
 
 [2007] M. FRIESEN, S. CHUTIA, C. TAHAN, and S.N. COPPERSMITH, "Valley splitting theory of Si/SiGe/Si quantum wells,”
-_Phys. Rev. B_ **75,** 115318 (2007), [http://arxiv.org/cond-mat/0608229](http://arxiv.org/cond-mat/0608229)
+_Phys. Rev. B_ **75,** 115318 (2007), [https://arxiv.org/abs/cond-mat/0608229](https://arxiv.org/abs/cond-mat/0608229)
 
 [2006] A.D. GREENTREE, C. TAHAN, J.H. COLE, and L.C.L. HOLLENBERG, “Quantum phase transitions of light,”
 _Nature Physics_ **2**, 856 - 861 (Dec., 2006), arxiv/cond-mat/0609050
@@ -132,12 +168,12 @@ _Nature Physics_ **2**, 856 - 861 (Dec., 2006), arxiv/cond-mat/0609050
 R2A-7, _9th_ _International Conference on Engineering Education_ (San Juan, Puerto Rico, July 23-28, 2006)
 
 [2006] C. Tahan, R. Leung, G.M. Zenner, K.D. Ellison, W.C. Crone, and C.A. Miller, “Nanotechnology and Society: A discussion-based undergraduate course,”
-_Am. J. Phys._ **74**, 443 (April 2006)_,_ [http://arxiv.org/physics/0507065](http://arxiv.org/physics/0507065)  (2005)
+_Am. J. Phys._ **74**, 443 (April 2006)_,_ [https://arxiv.org/abs/physics/0507065](https://arxiv.org/abs/physics/0507065)  (2005)
 
 [2005] C. TAHAN, PhD Thesis (2005), “Silicon in the Quantum Limit: Quantum Computing and Decoherence in Silicon Architectures,” [http://arxiv.org/abs/0710.4263](http://arxiv.org/abs/0710.4263)
 
 [2004] S. GOSWAMI, MARK FRIESEN, J.L. TRUITT, C. TAHAN, L.J. KLEIN, J.O. CHU, D.W. VAN DER WEIDE, S.N. COPPERSMITH, ROBERT JOYNT, and MARK A. ERIKSSON_,_ "Spectroscopy of valley splitting in a Si/SiGe two-dimensional electron gas,"
-_Unpublished_; [http://arxiv.org/cond-mat/0408389](http://arxiv.org/cond-mat/0408389) (2004)
+_Unpublished_; [https://arxiv.org/abs/cond-mat/0408389](https://arxiv.org/abs/cond-mat/0408389) (2004)
 
 [2004] M.A. Eriksson, M. Friesen, S.N. Coppersmith, R. Joynt, L.J. Klein, K. Slinker, C. Tahan, P.M. Mooney, J.O. Chu, and S.J. Koester, "Spin-based quantum dot quantum computing in silicon,"
 _Quant. Inform. Process._ **3**, 133 (2004)

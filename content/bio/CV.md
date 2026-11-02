@@ -16,14 +16,14 @@ Academic-style CV, December 2024
 
 ### EMPLOYMENT ([[Roles and Impact]])
 
-| 07/24 - pres. | _Microsoft_               |
+| 06/24 - pres. | _Microsoft_               |
 | ------------- | --------------------------------------------------- |
-|               | **Partner**, Quantum Azure |
+|               | **Partner**, Microsoft Quantum |
 
 | 03/24 - pres. | _University of Maryland-College Park_               |
 | ------------- | --------------------------------------------------- |
-|               | **Special Advisor to the President/VPR**, _UMD_     |
-|               | **Visiting Research Professor**, Physics Department |
+| 03/24 - pres. | **Visiting Research Professor**, Physics Department |
+| 03/24 - 06/24 | **Special Advisor to the President/VPR**, _UMD_     |
 
 | 06/20 – 03/24 | _White House Office of Science and Technology Policy_                                        |
 | ------------- | -------------------------------------------------------------------------------------------- |
@@ -53,7 +53,7 @@ Academic-style CV, December 2024
 | 07/06 – 09/06 | **Visiting Scientist**                                                                           |
 |               | _University of Tokyo, Department of Physics and NTT (Japan)_                                     |
 |               | Host: _Prof._ _Seigo Tarucha_                                                                    |
-| 07/06 – 09/06 | **Visiting Scientist**                                                                           |
+| 11/05 – 02/06 | **Visiting Scientist**                                                                           |
 |               | _Centre for Quantum Computer Technology and School of Physics_                                   |
 |               | _University of Melbourne (Australia)_                                                            |
 |               | Host: _Prof. Lloyd Hollenberg_                                                                   |

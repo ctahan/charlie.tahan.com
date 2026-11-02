@@ -32,7 +32,7 @@ Many thanks to the University of Colorado Boulder’s Q-SEnSE center for hosting
 
 **_Charles Tahan is the Assistant Director for Quantum Information Science at the White House Office of Science and Technology Policy and Director of the National Quantum Coordination Office._** 
 
-[1] The NSF Statutory mission: _To promote the **progress** of science; to advance the national health, prosperity, and welfare; and to secure the national defense; and for other purposes. Vision:_ NSF envisions a nation that capitalizes on new concepts in science and engineering and provides global leadership in advancing research and education. [https://www.nsf.gov/pubs/2014/nsf14002/pdf/02_mission_vision.pdf](https://www.nsf.gov/pubs/2014/nsf14002/pdf/02_mission_vision.pdf)
+[1] The NSF Statutory mission: _To promote the **progress** of science; to advance the national health, prosperity, and welfare; and to secure the national defense; and for other purposes. Vision:_ NSF envisions a nation that capitalizes on new concepts in science and engineering and provides global leadership in advancing research and education. [https://www.nsf.gov/pubs/2014/nsf14002/pdf/02_mission_vision.pdf](https://web.archive.org/web/20250514182935/https://www.nsf.gov/pubs/2014/nsf14002/pdf/02_mission_vision.pdf) ([[web-archive/NSF Statutory Mission and Vision - NSF 14-002.pdf|saved copy]])
 
 ![The United States QIS Ecosystem](https://www.quantum.gov/wp-content/uploads/2020/12/3_Pillars.png)
 
