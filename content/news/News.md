@@ -1,6 +1,6 @@
 ## Latest
 
-- 2026-10-31 [[An inside tour of our newest quantum lab]] // #news
+- 2026-10-31 [[A golden ticket to our quantum factory - thanks and Happy Halloween|A golden ticket to our quantum factory: thanks and Happy Halloween]] // #news
 - 2026-10-08 [[Quantum in an era of rapid change (NYC Quantum Summit 2026)]] // LinkedIn
 - 2026-10-05 [Benchmarking exchange-only control of a 48-spin singlet manifold](https://arxiv.org/abs/2610.07393) // preprint
 - 2026-09-25 [[Grand opening of the Microsoft Quantum research center in Maryland]] // #news
@@ -8,7 +8,7 @@
 - 2026-07-29 [Quantum meets capitalism: how to pair long-term bets on technology with commercial speed](https://www.nature.com/articles/d41586-026-02310-0) // Nature World View
 - 2026-07-07 [Spin singlets are useful](https://arxiv.org/abs/2607.06672) // preprint
 - 2026-04-27 [Gate-dependent offset charge shifts and anharmonicity in gatemon qubits in the weak tunneling regime](https://arxiv.org/abs/2604.24716) // preprint
-- 2026-04-27 [[The phoniton lives]] // #news
+- 2026-04-27 [[The phoniton lives|The phoniton lives?]] // #news
 - 2026-04-05 [[Experiments in vibe physics (part 1 of ...)]] // LinkedIn
 - 2026-02-24 [Anisotropy reduction and tunability of hole-spin qubit g-factor in strained parabolic Ge/SiGe quantum wells](https://arxiv.org/abs/2602.21287) // preprint
 - 2025-12-30 [[2025 In Review]] // LinkedIn

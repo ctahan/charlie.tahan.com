@@ -1,5 +1,7 @@
 
 
+[11/2025] Inaugural Joint Colloquium, "Accelerating the Future of Computing", School of Computing, Data Sciences & Physics, William & Mary, Williamsburg, VA - [[Inaugural joint colloquium at William & Mary]]
+
 [11/2024] "Bad Ideas", Spin Qubit 6, Sydney, Australia
 
 [09/2024] "You'll never find that! Or, a career in quantum.", UMD Career Nexus, College Park, MD - [[CareerNexus.pdf]]
