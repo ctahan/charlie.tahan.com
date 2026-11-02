@@ -1,4 +1,6 @@
 
+2026-07-29 [Quantum meets capitalism: how to pair long-term bets on technology with commercial speed](https://www.nature.com/articles/d41586-026-02310-0), Nature World View, Nature 655, 1105 (2026)
+
 2024-04-01 [[The simplest quantum computer]]
 
 2024-02-01 [[Quantum Origin Stories]], NQCO Director's Letter
