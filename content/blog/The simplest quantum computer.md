@@ -7,8 +7,8 @@ tags:
   - blog
   - arXiv
 ---
-> [!info] Originally posted on arXiv
-> **[Opinion: The simplest quantum computer](https://arxiv.org/abs/2412.18726)**
+> [!info] Available on arXiv
+> This paper is available on the arXiv here: **[Opinion: The simplest quantum computer](https://arxiv.org/abs/2412.18726)** (arXiv:2412.18726 [quant-ph], [PDF](https://arxiv.org/pdf/2412.18726)).
 >
 > Apr 1, 2024 | Charles Tahan
 >
