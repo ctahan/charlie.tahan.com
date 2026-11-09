@@ -14,6 +14,16 @@ tags:
 
 ---
 
+*From my [LinkedIn post](https://www.linkedin.com/feed/update/urn:li:activity:7411501526063595520/) sharing this article (Dec 29, 2025):*
+
+I am finding that it actually takes me longer to write the blog post than to vibe the project I want to talk about. Communicating is the bottleneck now, not coding. For my next Vibemas project I decided to resurrect the Meqanic game I released in 2014. I estimate it took me over 1000 hours to develop this game for the iPad back then and that does not include additional help from an extremely talented CS undergrad. I completely recreated it from scratch for the web in maybe an hour total of prompts (spread over a day--limited by my cheap LLM plan--and inputing only screen grabs from the defunct web site and a folder of old PNGs I found on my hard drive).
+
+Play the reborn Meqanic for the web here: https://meqanic.com/web/
+
+I will finish the blog post about the untold story of Meqanic one day.
+
+---
+
 ![[blog/assets/linkedin-2025-12-29-the-untold-story-of-meqanic-00.png|A tablet showing the Meqanic puzzle game under its yellow pixel-art logo]]
 
 ...Will come one day.

@@ -2,6 +2,8 @@
 
 2026-09-22 [[Microsoft's quantum research center is open for discovery in Maryland]], Microsoft Quantum blog
 
+2026-08-16 [[Scibok's Qubit Zoo]], LinkedIn
+
 2026-07-29 [Quantum meets capitalism: how to pair long-term bets on technology with commercial speed](https://www.nature.com/articles/d41586-026-02310-0), Nature World View, Nature 655, 1105 (2026)
 
 2026-04-05 [[Experiments in vibe physics (part 1 of ...)]], LinkedIn
@@ -21,6 +23,8 @@
 2025-04-15 [[World Quantum Day 2025 and Quantum Intuition XR]], LinkedIn
 
 2025-04-12 [[Decoherence of Andreev spin qubits]], LinkedIn
+
+2025-01-30 [[Visiting Congress for the American Physical Society]], LinkedIn
 
 2024-12-23 [[Hot spin qubits in silicon]], LinkedIn
 

@@ -1,10 +1,13 @@
 ## Latest
 
+- 2026-11-02 [[A conversation on The New Quantum Era podcast]] // #news
 - 2026-10-31 [[A golden ticket to our quantum factory - thanks and Happy Halloween|A golden ticket to our quantum factory: thanks and Happy Halloween]] // #news
 - 2026-10-08 [[Quantum in an era of rapid change (NYC Quantum Summit 2026)]] // LinkedIn
 - 2026-10-05 [Benchmarking exchange-only control of a 48-spin singlet manifold](https://arxiv.org/abs/2610.07393) // preprint
 - 2026-09-25 [[Grand opening of the Microsoft Quantum research center in Maryland]] // #news
 - 2026-09-22 [[Microsoft's quantum research center is open for discovery in Maryland]] // Microsoft Quantum blog
+- 2026-08-16 [[Scibok's Qubit Zoo]] // LinkedIn
+- 2026-07-31 [[Writing a World View for Nature]] // #news
 - 2026-07-29 [Quantum meets capitalism: how to pair long-term bets on technology with commercial speed](https://www.nature.com/articles/d41586-026-02310-0) // Nature World View
 - 2026-07-07 [Spin singlets are useful](https://arxiv.org/abs/2607.06672) // preprint
 - 2026-04-27 [Gate-dependent offset charge shifts and anharmonicity in gatemon qubits in the weak tunneling regime](https://arxiv.org/abs/2604.24716) // preprint
@@ -16,10 +19,13 @@
 - 2025-12-26 [[On the first day of Vibemas... a quantum museum exhibit idea tester]] // LinkedIn
 - 2025-12-22 [The effects of alloy disorder on strongly-driven flopping mode qubits in Si/SiGe](https://arxiv.org/abs/2512.19658) // preprint
 - 2025-12-20 [[The Night Before Vibemas]] // LinkedIn
+- 2025-12-05 [[Quantum, Broadly Considered at the Institute for Advanced Study]] // #news
+- 2025-11-17 [[Moderating the opening plenary on quantum computing at SC25]] // #news
 - 2025-11-05 [[Inaugural joint colloquium at William & Mary]] // #news
 - 2025-09-20 [[This is what I mean by quantum crucible]] // #news
 - 2025-09-17 [[Our new collaboration with Maryland will accelerate scalable quantum computing]] // Microsoft On the Issues
 - 2025-09-17 [[Announcing a Microsoft quantum research center in Maryland]] // #news
+- 2025-09-06 [[The AEON qubit, finally realized]] // #news
 - 2025-06-16 [Resolving Andreev spin qubits in germanium-based Josephson junctions](https://arxiv.org/abs/2506.13988) // preprint
 - 2025-05-07 [[Testimony before the House Science Committee on How the National Quantum Initiative Shapes U.S. Quantum Technology Leadership]]
 - 2025-04-29 [[DARPA and Maryland team up on the Quantum Benchmarking Initiative]] // #news
@@ -28,25 +34,34 @@
 - 2025-04-11 [Quantum Intuition XR: Tangible Quantum Mechanics using Interactive XR Experience](https://arxiv.org/abs/2504.08984) // preprint
 - 2025-03-19 [Simulated Non-Abelian Statistics of Majorana Zero Modes from a Kitaev Lattice](https://arxiv.org/abs/2503.15405) // preprint
 - 2025-03-19 [Measurement-based Simulation of Geometric Gates in Topological Qubits on NISQ Devices](https://arxiv.org/abs/2503.15392) // preprint
+- 2025-03-18 [[Future Charlie at the APS Global Physics Summit]] // #news
+- 2025-03-18 [[Back from the future for the APS March Meeting]] // #news
+- 2025-01-30 [[Visiting Congress for the American Physical Society]] // LinkedIn
 - 2025-01-16 [[Building Microsoft's quantum labs in the DMV]] // #news
 - 2025-01-14 [[Maryland launches the Capital of Quantum Initiative]] // #news
 - 2024-12-25 [Opinion: The simplest quantum computer](https://arxiv.org/abs/2412.18726) // preprint
 - 2024-12-23 [[Hot spin qubits in silicon]] // LinkedIn
 - 2024-08-05 [Phonon-Induced Exchange Gate Infidelities in Semiconducting Si-SiGe Spin Qubits](https://arxiv.org/abs/2408.02742) // preprint
 - 2024-07-11 [Ultra-dispersive resonator readout of a quantum-dot qubit using longitudinal coupling](https://arxiv.org/abs/2407.08869) // preprint
+- 2024-06-21 [[An Editors' Suggestion in Physical Review B]] // #news
 - 2024-06-20 [[I'm joining Microsoft]]
+- 2024-06-12 [[My last blog for the LPS Qubit Collaboratory]] // #news
 - 2024-04-01 [[The simplest quantum computer]]
 - 2024-03-21 [Charles Tahan Brings His Research Expertise to Thriving UMD Quantum Enterprise](https://umdphysics.umd.edu/about-us/news/department-news/1937-tahan.html)
+- 2024-03-07 [[Special Advisor at the University of Maryland]] // #news
 - 2024-03-04 [[March Meeting 2024]] // #news
 - 2024-03-04 [[Last day at OSTP and LPS]] // #news
 - 2024-03-01 [Decoherence in Andreev spin qubits](https://arxiv.org/abs/2403.00710) // preprint
 - 2024-03-01 [[Never a Bad Time]] // #NQCO
 - 2024-02-29 [[Quantum Origin Stories]]  // #NQCO
+- 2024-02-29 [[Quantum Origin Stories, a new NQCO Director's Letter]] // #news
 - 2024-02-15 [Quantum dynamics of superconductor-quantum dot-superconductor Josephson junctions](https://arxiv.org/abs/2402.10330) // preprint
+- 2024-02-03 [[A new paper on measurement-induced entanglement transitions]] // #news
 - 2024-01-30 [Detecting Measurement-Induced Entanglement Transitions With Unitary Mirror Circuits](https://arxiv.org/abs/2401.17367) // preprint
 
 ## More
 
+- 2023-12-11 [[A LEGO quantum computer for Christmas]] // #news
 - 2023-12-08 [[Longitudinal coupling of a quantum dot to a resonator, demonstrated]] // #news
 - 2023-12-02 [[House Science Committee passes the NQI Reauthorization Act]] // #news
 - 2023-12-02 [[Fourth annual report on the National Quantum Initiative]] // #news
@@ -54,7 +69,11 @@
 - 2023-08-03 [[Cheek by Jowl]] // #NQCO
 - 2023-06-15 [[Qubits for Computing Foundry]] // #news
 - 2023-06-07 [[Testimony before the House Science Committee on Advancing American Leadership in Quantum Technology]]
+- 2023-06-03 [[Why Quantum Matters to You, an NQCO Director's Letter]] // #news
+- 2023-06-03 [[First report from the NQI Advisory Committee]] // #news
 - 2023-06-01 [[Why Quantum Matters to You]] // #NQCO
+- 2023-04-20 [[My career journey in quantum on Progress, Potential, and Possibilities]] // #news
+- 2023-04-14 [[World Quantum Day 2023]] // #news
 - 2023-04-13 [[A Pivotal Year for National Quantum Policy]] // #NQCO
 - 2023-04-07 [[NQIAC meeting at the White House, March 2023]] // #news
 - 2023-01-07 [[Third annual report on the National Quantum Initiative]] // #news
@@ -72,10 +91,13 @@
 - 2022-02-01 [[A Quantum Wish]] // #NQCO
 - 2022-02-01 [[Quantum workforce development plan and Q-12 actions]] // #news
 - 2022-01-28 [[Workshop on quantum recruitment in the federal government]] // #news
+- 2021-12-11 [[Second annual report on the National Quantum Initiative]] // #news
+- 2021-11-19 [[US-Australia quantum cooperation statement]] // #news
 - 2021-10-07 [[White House Summit on Quantum Industry and Society]] // #news
 - 2021-10-07 [[The role of international talent in quantum information science]] // #news
 - 2021-04-06 [[The State of Quantum]] // #NQCO
 - 2021-01-16 [[Modulated longitudinal gates on encoded spin qubits]] // #news
+- 2020-12-04 [[The Quantum Questions, the second NQCO newsletter]] // #news
 - 2020-12-03 [[The Quantum Questions]] // #NQCO
 - 2020-10-20 [[Strengthening U.S. Leadership In Quantum Information Science]] // #NQCO
 - 2020-10-07 [[Launching quantum.gov at the Q-12 Kick-Off]] // #news

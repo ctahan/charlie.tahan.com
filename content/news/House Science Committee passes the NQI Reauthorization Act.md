@@ -24,7 +24,7 @@ https://science.house.gov/2023/11/the-national-quantum-initiative-reauthorizatio
 
 Recommendations from the NQI Advisory Committee:
 
-https://www.quantum.gov/nqiac-report-on-renewing-the-national-quantum-initiative/
+https://www.quantum.gov/nqiac-report-on-renewing-the-national-quantum-initiative/ ([[web-archive/NQIAC Report on Renewing the National Quantum Initiative - National Quantum Initiative.pdf|saved copy]])
 
 My testimony to the Committee:
 

@@ -2,6 +2,8 @@
 
 [11/2025] Inaugural Joint Colloquium, "Accelerating the Future of Computing", School of Computing, Data Sciences & Physics, William & Mary, Williamsburg, VA - [[Inaugural joint colloquium at William & Mary]]
 
+[03/2025] "The Simplest Quantum Computer", American Physical Society Global Physics Summit (March Meeting), Anaheim, CA - [[Future Charlie at the APS Global Physics Summit]]
+
 [11/2024] "Bad Ideas", Spin Qubit 6, Sydney, Australia
 
 [09/2024] "You'll never find that! Or, a career in quantum.", UMD Career Nexus, College Park, MD - [[CareerNexus.pdf]]
