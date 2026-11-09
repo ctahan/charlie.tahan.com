@@ -20,6 +20,6 @@ Today I’m coming back from the future to give a talk at the APS March Meeting 
 
 T-minus 30 minutes.
 
-https://summit.aps.org/events/MAR-F19/1
+https://meetings-archive.aps.org/smt/2025/mar-f19/1/ ([[web-archive/The simplest quantum computer - APS Global Physics Summit 2025.pdf|saved copy]])
 
 🔗 [Opinion: The simplest quantum computer](https://arxiv.org/abs/2412.18726v1) ([[The simplest quantum computer|copy on this site]])
