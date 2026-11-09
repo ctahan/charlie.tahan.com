@@ -13,6 +13,8 @@ Never a Bad Time, highlighting the LPS Qubit Collaboratory:
 https://www.quantum.gov/never-a-bad-time/
   
 You can check out the other letters from the last four years here if you missed them:  
+
+https://www.quantum.gov/nqco/#LETTERS-FROM-THE-NQCO-DIRECTOR ([[OSTP#Director's Letters|copies on this site]])
   
 God bless the NQCO!
 
