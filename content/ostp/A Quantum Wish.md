@@ -39,13 +39,13 @@ You visit a new exhibit at a local or virtual museum on industries of the future
 
 Here’s the challenge for all my scientist, educator, artist, and communicator friends out there. What does that girl see? [World Quantum Day](https://www.quantum.gov/world-quantum-day/ "World Quantum Day") is coming: April 14, 2022.
 
-![](https://www.quantum.gov/wp-content/uploads/2022/02/Quantum-Wish.jpg "A Quantum Wish")
+![[Quantum-Wish.jpg|A Quantum Wish]]
 
 Quantum mechanical objects, such as single atoms, can behave as if they are in two or more places at once, even though they are really in a single quantum "state." Quantum mechanics also allows for quantum entanglement: two or more atoms can be correlated no matter their distance apart. If you believe the quantum math (which hasn't failed us yet), with each new particle you add to the system, you double the information stored. A quantum computer made up of just 50 perfect quantum bits (or qubits) processes 250 = 1,125,899,906,842,624 complex numbers at the same time. (Only the biggest of the biggest supercomputers today can simulate such quantum dynamics completely.) As the quantum computation evolves and these qubits interact, these numbers can even cancel out! This is where the unique power of quantum computing comes from. But the universe imposes a severe input/output crunch: when you check the state of your computer, you only get 50 numbers back out. Worse, the environment (e.g., heat, noise, light) tends to “measure” the qubits for you and in unhelpful ways. This decoherence destroys their quantum-ness and with it the ability to perform quantum computation. Decoherence is why we don’t directly experience quantum phenomena in our everyday lives, although quantum is all around us. Pretty amazing, huh?
 
 Charles Tahan is a quantum physicist in Washington, DC, and the Director of the National Quantum Coordination Office at the Office of Science and Technology Policy. Learn more about the National Quantum Initiative at [https://www.quantum.gov/](https://www.quantum.gov/ "National Quantum Initiative") and about the Q-12 Education Partnership at [https://q12education.org/](https://q12education.org/ "Q-12 Education Partnership")
 
-[![The NQCO Seal](https://www.quantum.gov/wp-content/uploads/2020/10/Seal_06_3_final_hires_fin-150x150.png)](https://www.quantum.gov/nqco/#ABOUT-THE-NQCO-SEAL)
+[![[Seal_06_3_final_hires_fin-300x300.png|The NQCO Seal|150]]](https://www.quantum.gov/nqco/#ABOUT-THE-NQCO-SEAL)
 
 |                                                                               |
 | ----------------------------------------------------------------------------- |

@@ -30,7 +30,7 @@ With this context, I’m fortunate this month to be able to highlight one of the
 
 **_Charles Tahan is the Assistant Director for Quantum Information Science at the White House Office of Science and Technology Policy and Director of the National Quantum Coordination Office._** 
 
-![NSF’s Center for Quantum Networks [Image courtesy CQN]](https://www.quantum.gov/wp-content/uploads/2021/04/CQN_Graphic-1-300x300.png)
+![[CQN_Graphic-1-300x300.png|NSF’s Center for Quantum Networks (image courtesy CQN)]]
 
 |   |
 |---|

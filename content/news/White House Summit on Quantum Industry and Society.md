@@ -22,6 +22,6 @@ The Summit focused on three themes:
 
 1) Getting the science right by understanding the applications and timelines by which quantum information technology will benefit our society, and roadblocks we must overcome to get there;
 
-2) Enhancing American competiveness by accelerating technology development toward useful economic and mission applications while also protecting our national security; and
+2) Enhancing American competitiveness by accelerating technology development toward useful economic and mission applications while also protecting our national security; and
 
 3) Enabling our people by building the necessary talent pipeline and ensuring that this field creates new opportunities for all Americans.

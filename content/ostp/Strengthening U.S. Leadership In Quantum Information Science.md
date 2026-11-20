@@ -5,7 +5,7 @@ tags:
   - NQCO
   - writing
 ---
-Original Link: [[https://www.quantum.gov/NQCO-Letter-QNEXT-Oct-2020/]]
+Original Link: https://www.quantum.gov/nqco-letter-qnext-oct-2020/
 Archived PDF: [[Strengthening U.S. Leadership in Quantum Information Science Highlighting Argonne's Q-NEXT QIS Research Center - National Quantum Initiative.pdf]]
 
 Posted on [October 20, 2020](https://www.quantum.gov/nqco-letter-qnext-oct-2020/)
@@ -32,7 +32,7 @@ Next time: The quantum questions.
 
 **_Charles Tahan is the Assistant Director for Quantum Information Science at the White House Office of Science and Technology Policy and Director of the National Quantum Coordination Office._** 
 
-[![The NQCO Seal](https://www.quantum.gov/wp-content/uploads/2020/10/Seal_06_3_final_hires_fin-150x150.png)](https://www.quantum.gov/nqco/#ABOUT-THE-NQCO-SEAL)
+[![[Seal_06_3_final_hires_fin-300x300.png|The NQCO Seal|150]]](https://www.quantum.gov/nqco/#ABOUT-THE-NQCO-SEAL)
 
 |   |
 |---|

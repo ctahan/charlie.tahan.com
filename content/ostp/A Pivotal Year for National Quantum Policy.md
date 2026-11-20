@@ -83,7 +83,7 @@ In conclusion, the past year has been a significant one for the U.S. in terms of
 
 **_Charles Tahan is the Assistant Director for Quantum Information Science at the White House Office of Science and Technology Policy and Director of the National Quantum Coordination Office._** 
 
-[![The NQCO Seal](https://www.quantum.gov/wp-content/uploads/2020/10/Seal_06_3_final_hires_fin-150x150.png)](https://www.quantum.gov/nqco/#ABOUT-THE-NQCO-SEAL)
+[![[Seal_06_3_final_hires_fin-300x300.png|The NQCO Seal|150]]](https://www.quantum.gov/nqco/#ABOUT-THE-NQCO-SEAL)
 
 |   |
 |---|

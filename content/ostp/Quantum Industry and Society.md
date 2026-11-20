@@ -38,13 +38,13 @@ The QED-C offers a forum for industry, academia, and professional societies to k
 
 Check it out, and unlike me 20 years ago, don’t get worried – get involved!
 
-![](https://www.quantum.gov/wp-content/uploads/2022/11/QEDC_Workforce-1024x601-1.png)
+![[QEDC_Workforce-1024x601-1.png]]
 
 Assessing the Needs of the Quantum Industry (https://arxiv.org/abs/2109.03601), which reports on the results from a survey of 57 companies in the quantum industry, with the goal of elucidating the jobs, skills, and degrees that are relevant for this new workforce.
 
 **_Charles Tahan is the Assistant Director for Quantum Information Science at the White House Office of Science and Technology Policy and Director of the National Quantum Coordination Office._** 
 
-[![The NQCO Seal](https://www.quantum.gov/wp-content/uploads/2020/10/Seal_06_3_final_hires_fin-150x150.png)](https://www.quantum.gov/nqco/#ABOUT-THE-NQCO-SEAL)
+[![[Seal_06_3_final_hires_fin-300x300.png|The NQCO Seal|150]]](https://www.quantum.gov/nqco/#ABOUT-THE-NQCO-SEAL)
 
 |   |
 |---|

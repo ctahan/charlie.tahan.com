@@ -47,7 +47,7 @@
 - 2024-06-20 [[I'm joining Microsoft]]
 - 2024-06-12 [[My last blog for the LPS Qubit Collaboratory]] // #news
 - 2024-04-01 [[The simplest quantum computer]]
-- 2024-03-21 [Charles Tahan Brings His Research Expertise to Thriving UMD Quantum Enterprise](https://umdphysics.umd.edu/about-us/news/department-news/1937-tahan.html)
+- 2024-03-21 [Charles Tahan Brings His Research Expertise to Thriving UMD Quantum Enterprise](https://umdphysics.umd.edu/about-us/news/department-news/1937-tahan.html) ([[news/assets/Charles Tahan Brings His Research Expertise to Thriving UMD Quantum Enterprise - UMD Physics.pdf|saved copy]]) // UMD Physics
 - 2024-03-07 [[Special Advisor at the University of Maryland]] // #news
 - 2024-03-04 [[March Meeting 2024]] // #news
 - 2024-03-04 [[Last day at OSTP and LPS]] // #news
@@ -95,7 +95,7 @@
 - 2021-11-19 [[US-Australia quantum cooperation statement]] // #news
 - 2021-10-07 [[White House Summit on Quantum Industry and Society]] // #news
 - 2021-10-07 [[The role of international talent in quantum information science]] // #news
-- 2021-04-06 [[The State of Quantum]] // #NQCO
+- 2021-04-07 [[The State of Quantum]] // #NQCO
 - 2021-01-16 [[Modulated longitudinal gates on encoded spin qubits]] // #news
 - 2020-12-04 [[The Quantum Questions, the second NQCO newsletter]] // #news
 - 2020-12-03 [[The Quantum Questions]] // #NQCO

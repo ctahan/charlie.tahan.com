@@ -30,7 +30,7 @@
 
 2024-04-01 [[The simplest quantum computer]]
 
-2024-02-01 [[Quantum Origin Stories]], NQCO Director's Letter
+2024-02-29 [[Quantum Origin Stories]], NQCO Director's Letter
 
 2023-08-03 [[Cheek by Jowl]], NQCO Director's Letter
 
@@ -48,7 +48,7 @@
 
 2022-02-01 [[A Quantum Wish]], NQCO Director's Letter
 
-2021-04-06 [[The State of Quantum]], NQCO Director's Letter
+2021-04-07 [[The State of Quantum]], NQCO Director's Letter
 
 2020-12-03 [[The Quantum Questions]], NQCO Director's Letter
 

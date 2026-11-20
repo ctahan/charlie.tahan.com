@@ -112,7 +112,7 @@
 
 [05/2019] Internal Seminar, “From Psi to Quantum Machine Learning,” Laboratory for Physical Science, College Park, MD
 
-[04/2019] Keynote Talk, “Why focus on Materials Science for Quantum {Computing|Sensors|Networking}?,” Kavli Workshop on Materials Science for Quantum Computing, Materials Research Society Meeting, Pheonix, AZ
+[04/2019] Keynote Talk, “Why focus on Materials Science for Quantum {Computing|Sensors|Networking}?,” Kavli Workshop on Materials Science for Quantum Computing, Materials Research Society Meeting, Phoenix, AZ
 
 [04/2019] Invited Talk, “Tomorrow’s quantum {computers/sensors/networks}
 

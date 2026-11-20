@@ -25,7 +25,7 @@ This site serves as a repository for academic work and in no way represents the 
 - [[Talks]] - talks archive.
 - [[Writing]] - all non-technical writing.
 - [Qubit Zoo](https://qubitzoo.org/)
-- [Meqanic](http://meqanic.com/) - A puzzle game for iOS designed to build your intution about quantum computing and quantum mechanics. See a talk about its creation [here](http://tahan.com/charlie/talks/2015MMquantumintuitiontalk.pdf).
+- [Meqanic](http://meqanic.com/) - A puzzle game for iOS designed to build your intuition about quantum computing and quantum mechanics. See a talk about its creation [here](http://tahan.com/charlie/talks/2015MMquantumintuitiontalk.pdf).
 - [Technology and Society Page](https://tahan.com/charlie/nanosociety/) - Years ago I created a new course at the University of Wisconsin-Madison on Nanotechnology and Society, which evolved into work in science and technology studies, participation on various ethics and public policy boards, and some thought into the future of quantum technology.
 -  _Old_ [Teaching and Learning Philosophy](http://www.tahan.com/charlie/bio/teachphilo.pdf)
 
