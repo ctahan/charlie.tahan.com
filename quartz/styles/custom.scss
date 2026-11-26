@@ -1,3 +1,18 @@
 @use "./base.scss";
 
 // put your custom CSS here!
+
+// Quartz draws ==highlights== yellow (#fff23688 in base.scss). The keynote post ("Does Quantum Matter in the Age of
+// AI") uses them for passages prepared but not said, so they are a very light gray on both themes. Site-wide.
+.text-highlight {
+  background-color: rgba(128, 128, 128, 0.13);
+}
+
+// Notes with `cssclasses: keynote-slides` only. Every picture and loop there is a 16:9 slide; reserving the space
+// before the media loads is what lets a link such as …#telescope land on its slide.
+article.keynote-slides img,
+article.keynote-slides video {
+  width: 100%;
+  height: auto;
+  aspect-ratio: 16 / 9;
+}

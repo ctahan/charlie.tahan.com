@@ -1,5 +1,6 @@
 ## Latest
 
+- 2026-11-16 [[Does Quantum Matter in the Age of AI|Does Quantum Matter in the Age of AI?]] // keynote, UW–Madison
 - 2026-11-02 [[A conversation on The New Quantum Era podcast]] // #news
 - 2026-10-31 [[A golden ticket to our quantum factory - thanks and Happy Halloween|A golden ticket to our quantum factory: thanks and Happy Halloween]] // #news
 - 2026-10-08 [[Quantum in an era of rapid change (NYC Quantum Summit 2026)]] // LinkedIn
