@@ -5,7 +5,6 @@ tags:
   - blog
   - talks
 description: "The whole keynote on video, with its chapters: Does Quantum Matter in the Age of AI? UW–Madison, November 16, 2026."
-draft: true
 ---
 
 

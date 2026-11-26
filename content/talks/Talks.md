@@ -1,5 +1,7 @@
 
 
+[11/2026] Keynote, "Does Quantum Matter in the Age of AI?", Quantum–ISSH Symposium, University of Wisconsin–Madison, Madison, WI - [[Does Quantum Matter in the Age of AI (UW-Madison keynote)]]
+
 [11/2025] Inaugural Joint Colloquium, "Accelerating the Future of Computing", School of Computing, Data Sciences & Physics, William & Mary, Williamsburg, VA - [[Inaugural joint colloquium at William & Mary]]
 
 [03/2025] Invited Talk, "The Simplest Quantum Computer", American Physical Society Global Physics Summit (March Meeting), Anaheim, CA - [[Future Charlie at the APS Global Physics Summit]]

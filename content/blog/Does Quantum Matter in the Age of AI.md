@@ -14,7 +14,7 @@ cssclasses:
 >
 > We live in this unique moment in time where it feels like you can make whatever you can imagine, and still have it be novel. I feel like this will be a good marker of the state of AI technology. I have no idea what I would do in a year to top this. But I’m sure it will be out of date. 
 
-*The transcript of my opening keynote at the Quantum–ISSH Symposium, University of Wisconsin–Madison, November 16, 2026, slide by slide. [Watch the video on YouTube](https://www.youtube.com/watch?v=jH9mP4x4xgg).*
+*The transcript of my opening keynote at the Quantum–ISSH Symposium, University of Wisconsin–Madison, November 16, 2026, slide by slide. [[Does Quantum Matter in the Age of AI (UW-Madison keynote)|Watch the video]].*
 
 *==Shaded== passages are the points I prepared but skipped in the room. Words in \[brackets\] correct a slip I made; the footnote says what I said.*
 
@@ -749,7 +749,7 @@ Then we need to figure out our place in this world. It’s hard for me to accept
 ---
 
 > [!info] The opening keynote, Quantum–ISSH Symposium, University of Wisconsin–Madison
-> November 16, 2026 · Memorial Union · [Watch the video on YouTube](https://www.youtube.com/watch?v=jH9mP4x4xgg)
+> November 16, 2026 · Memorial Union · [[Does Quantum Matter in the Age of AI (UW-Madison keynote)|Watch the video]]
 >
 > My words from the room, edited to read. ==Shaded== passages are from the talk track I prepared but didn’t say in the room. Words in \[brackets\] correct a slip I made; the footnote says what I said.
 >
