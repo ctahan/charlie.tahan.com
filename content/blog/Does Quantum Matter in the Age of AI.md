@@ -13,18 +13,6 @@ cssclasses:
 > I kind of went hog wild on this talk for UW-Madison. Everything was made from scratch. And I mean everything. The talk itself is a web app server designed to be interactive: it listens to what I’m saying, allows audience input at forks to choose directions, is simulating a quantum wave in the background. I worked with the automatons on the structure of the talk, what I wanted to say. I wanted to demonstrate how AI is changing science and what it means to be a scientist and highlight the big question our field faces - what is the delta between quantum and AI. I gave the automatons all the policy documents I was associated with, all my essays and writing, my scientific papers, all the course materials from my Nanotechnology and Society course I taught in 2005 as a graduate student at Wisconsin. I pointed them to our recent public talks from Microsoft Quantum. I asked them to research the state of quantum and society and do their own research. It was truly a collaborative effort. And they surprised me at times, and certainly found stuff I would have forgotten. The talk app itself generated a draft voice track which we iterated on - I wrote it to allow me to give feedback in real time. I included the present state of model video creation from a technical paper and highlighted science discovery loop examples. I even vibe-coded a game for the audience to play after the talk inspired by SimEarth!
 >
 > We live in this unique moment in time where it feels like you can make whatever you can imagine, and still have it be novel. I feel like this will be a good marker of the state of AI technology. I have no idea what I would do in a year to top this. But I’m sure it will be out of date. 
->
-> > Summarize the main points I made in this talk, just a few bullet points <10
->
-> - Nano is the precedent. It didn't vanish; it dissolved into semiconductors and materials, and AI will absorb technology the same way.
-> - Quantum policy stayed narrow on purpose. The law focused on what's fundamentally different (security, economy, workforce) so it wouldn't become a grab-all. You stand by that.
-> - Being a scientist is changing this year. AI speeds up every step, but it's still slop; the game is verifying it, and the slop gets harder to catch.
-> - Small teams with AI move very fast if they know what they're doing, so the bottleneck moves to hardware and hands-on training.
-> - Quantum is "AI minus the rest of the universe." Big and strange aren't enough; it has to be useful, and only a few algorithms are (cryptography, simulating nature).
-> - Your bet: quantum computers as telescopes that feed AI quantum data, as code made LLMs better at everything. It loses if classical methods can supply that data.
-> - When AI makes everything, nobody knows how things are made. Most people won't care; the open question is the model directing it.
-> - The charge to the room: find where quantum really differs from AI and bring the public in, because the public will conflate the two.
-> - Don't scare-monger: AI is the real story, so watch for quantum's step changes. We don't know what happens when you include the rest of the universe.
 
 *The transcript of my opening keynote at the Quantum–ISSH Symposium, University of Wisconsin–Madison, November 16, 2026, slide by slide. [Watch the video on YouTube](https://www.youtube.com/watch?v=jH9mP4x4xgg).*
 
